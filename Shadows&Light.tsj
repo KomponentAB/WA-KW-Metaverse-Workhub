@@ -1,0 +1,14 @@
+{ "columns":60,
+ "image":"Shadows&Light.png",
+ "imageheight":2560,
+ "imagewidth":1920,
+ "margin":0,
+ "name":"Shadows&Light",
+ "spacing":0,
+ "tilecount":4800,
+ "tiledversion":"1.9.2",
+ "tileheight":32,
+ "tilewidth":32,
+ "type":"tileset",
+ "version":"1.9"
+}
